@@ -1,4 +1,4 @@
-# card-tennis
+# Card-Adidas
 card animado com **HTML** e **CSS**
 link do projeto na web [clique aqui](https://card-addidas.netlify.app/)
 
