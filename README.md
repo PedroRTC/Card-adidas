@@ -1,5 +1,5 @@
 # Card-Adidas
-* #### Criação de um card animado 
+* #### Card animado 
 
 * link do projeto na web [clique aqui](https://card-addidas.netlify.app/)
 
