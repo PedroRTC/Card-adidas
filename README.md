@@ -1,5 +1,5 @@
 # Card-Adidas
-Card animado com **HTML**, **CSS** e **JavaScript**
+* Card animado com **HTML**, **CSS** e **JavaScript**
 
 link do projeto na web [clique aqui](https://card-addidas.netlify.app/)
 
